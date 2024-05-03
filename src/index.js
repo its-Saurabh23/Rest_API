@@ -18,7 +18,7 @@ app.use('/api/v1',v1Router);
 app.use('/api/v1/workouts',v1WorkoutRouter);
 
 // app.get("/",(req,res,next)=>{
-//     res.send("<h2>It's Working!</h2>")
+// res.send("<h2>It's Working!</h2>")
 // });
 
 // app.use("/api/v1",v1Router);
