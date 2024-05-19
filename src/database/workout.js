@@ -1,6 +1,6 @@
 const DB = require("./db.json")
 const {saveToDatabase} = require('./utils');
-const getAllWorkouts =()=>{
+const getAllWorkouts = () =>{
     return DB.workouts;
 }
 
